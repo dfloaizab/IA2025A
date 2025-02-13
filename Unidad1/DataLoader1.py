@@ -22,7 +22,7 @@ with open("productos.csv", mode='r', encoding='utf-8') as f:
     header = f.readline().strip().split(",")
 
 # Contar cuántos productos pertenecen a la categoría 'Electronica'
-generador_productos = load_data("productos.csv")
+generador_productos = load_data("data.csv")
 counting = count_fields(generador_productos, header, "categoria", "Electronica")
 
 # Mostrar el resultado
