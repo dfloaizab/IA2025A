@@ -28,3 +28,15 @@ counting = count_fields(generador_productos, header, "categoria", "Electronica")
 # Mostrar el resultado
 print(f"Número de productos en la categoría 'Electronica': {counting}")
 
+#CONVERSION RATE USING MAP:
+
+conv_rate = 0.00026
+
+#generar nueva lista mapeando función de conversión:
+
+#1 MAP usando función lambda: generar nueva lista de valores con la tasa de conversión:
+
+#2. FILTER: filtrado usando list comprehension. Elementos de la lista que cumplan determinada condición:
+
+
+
