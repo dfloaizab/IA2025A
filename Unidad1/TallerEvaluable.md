@@ -146,6 +146,6 @@ model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy']
 #### Entrega:
 enviar email a diegof.loaizab@unilibre.edu.co con:
 - Enlace al código completo de los puntos (Google Colab o repo de github)
-- Respuestas a las preguntas en un documento aparte
+- Respuestas a las preguntas en un documento aparte.
 
 ---
