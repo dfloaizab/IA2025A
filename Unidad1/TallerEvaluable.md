@@ -143,4 +143,9 @@ model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy']
 - [TensorFlow & Keras](https://www.tensorflow.org/)
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 
+#### b) Pregunta Conceptual:
+Entrega: enviar email a diegof.loaizab@unilibre.edu.co con:
+- Enlace al código completo de los puntos (Google Colab o repo de github)
+- Respuestas a las preguntas en un documento aparte
+
 ---
