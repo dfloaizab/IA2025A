@@ -1,4 +1,4 @@
-# Taller de Preparación,  Inteligencia Artificial, 2025A
+# Taller Evaluable, Corte 1,  Inteligencia Artificial, 2025A
 
 ## Temas Cubiertos:
 1. Regresión Lineal
