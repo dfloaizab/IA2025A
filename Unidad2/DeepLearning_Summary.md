@@ -1,8 +1,8 @@
 # Resumen de Redes Neuronales con Deep Learning Básicas
 # Inteligencia Artificial, 2025A
 ## Universidad Libre Cali
-## Diego Fernando Loaiza Buitrago
-
+### Diego Fernando Loaiza Buitrago
+---------------------------------------------------------------------------------------------------
 ## Conceptos Fundamentales
 
 ### Red Neuronal
