@@ -391,6 +391,6 @@ import matplotlib.pyplot as plt
 # 10. Analizar importancia de características (opcional)
 # ...
 ```
-#Objetivo de los ejercicios:
+## Objetivo de los ejercicios:
 
--> aplicar los conceptos de redes neuronales en problemas prácticos de clasificación y regresión usando datasets públicos populares.
+* aplicar los conceptos de redes neuronales en problemas prácticos de clasificación y regresión usando datasets públicos populares.
