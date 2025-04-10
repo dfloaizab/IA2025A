@@ -89,7 +89,7 @@ X_train, X_test, y_train, y_test = train_test_split(X_padded, y_tensor, test_siz
 
 ---
 
-## Paso 2: Definir el modelo LSTM
+## Paso 2: Definición del modelo LSTM
 
 ```python
 import torch.nn as nn
@@ -132,7 +132,7 @@ for epoch in range(50):
 
 ---
 
-## Paso 4: Predicción (Inferencia)
+## Paso 4: Predicción y pruebas (Inferencia)
 
 ```python
 def predict(text):
