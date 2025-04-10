@@ -1,6 +1,6 @@
 ## Un chatbot con LSTM - Inteligencia Artificial 2025A
 
-# Clasificador de Intenciones con LSTM en PyTorch
+## Clasificador de Intenciones con LSTM en PyTorch
 
 Este proyecto guía en la construcción de un **clasificador de intenciones** usando redes neuronales recurrentes con **LSTM** para entender preguntas frecuentes en lenguaje natural.
 
