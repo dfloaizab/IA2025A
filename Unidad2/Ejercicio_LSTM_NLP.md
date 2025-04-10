@@ -22,7 +22,8 @@ Construir un modelo de clasificación de texto capaz de identificar la intenció
 Instalar los paquetes necesarios con:
 
 ```bash
-pip install torch scikit-learn nltk
+pip install scikit-learn nltk
+pip install torch==2.2.2  torchtext==0.17.2
 ```
 
 ## Dataset de ejemplo
