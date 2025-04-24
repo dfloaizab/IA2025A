@@ -74,7 +74,8 @@ for epoch in range(100):
     for input_seq, target in training_data:
         optimizer.zero_grad()
         output = model(input_seq)
-        loss = loss_fn(output.view(1, -1), target)
+        #loss = loss_fn(output.view(1, -1), target)
+        loss = loss_fn(output, target.squeeze(0))
         loss.backward()
         optimizer.step()
         total_loss += loss.item()
@@ -98,4 +99,4 @@ def predict_next_word(prompt):
 # --------------------------
 test_prompt = "yo quiero"
 predicted_word = predict_next_word(test_prompt)
-print(f"\n🔮 Predicción para '{test_prompt}': {predicted_word}")
+print(f"\nPredicción para '{test_prompt}': {predicted_word}")
